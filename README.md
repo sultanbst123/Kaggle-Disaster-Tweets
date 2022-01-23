@@ -1,2 +1,7 @@
 # Kaggle-Disaster-Tweets
-Kaggle Competition 
+
+Mengunakan DistilBert dan Bert-base untuk memprediksi Tweet bencana dan yang tidak, 
+
+
+## Dataset & Informasi
+https://www.kaggle.com/c/nlp-getting-started/overview
